@@ -6,5 +6,5 @@ A calculator Application using Qt C++ framwork
 </div>
 
 
-
+>
  - Learned event handling with Signals and Slots. Also how to work with widgets in many ways, setting up an interface, stylesheets, casting, regular expressions and much more.
