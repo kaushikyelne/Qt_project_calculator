@@ -1,5 +1,5 @@
 # Qt_project_calculator
-A calculator Application using Qt C++ framwork
+A calculator Application using Qt C++ framework
 
 <div style="align:center">
   <img src ="/myapp.PNG"/>
